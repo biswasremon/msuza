@@ -1,8 +1,8 @@
-### Hi there 👋, my name is S.Msuza
-#### I am the manager of Solidity CheckUp.
-I am always ready to give the overall benefit to the users of Solidity CheckUp.
+### Hi there 👋, my name is Biswas
+#### I am Student.
+.
 
-- 🔭 I’m currently working on Solidity CheckUp 
+- 🔭 I’m currently Looking for a job
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/smsuza)  
